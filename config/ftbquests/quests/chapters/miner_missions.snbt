@@ -6,7 +6,152 @@
 	icon: "kubejs:microminer_t1"
 	id: "7414BCA9947B974E"
 	order_index: 3
-	quest_links: [ ]
+	quest_links: [
+		{
+			id: "52971CE3885F07EA"
+			linked_quest: "5FE96C30454A0374"
+			shape: "hexagon"
+			size: 2.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5E460A601DE7F780"
+			linked_quest: "49B872B193268554"
+			shape: "hexagon"
+			size: 2.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "775832CF0EC797EE"
+			linked_quest: "19C2D208A2FC9968"
+			shape: "hexagon"
+			size: 2.0d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "32F0F4F60B4F899A"
+			linked_quest: "023197AB7CDBDD6E"
+			shape: "hexagon"
+			size: 2.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "0E5716A690B1BA98"
+			linked_quest: "15DBB22E3DC0AFB7"
+			shape: "hexagon"
+			size: 2.0d
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			id: "3143748326EED4C7"
+			linked_quest: "638130DC8A2BF1C1"
+			shape: "hexagon"
+			size: 2.0d
+			x: -13.0d
+			y: 1.0d
+		}
+		{
+			id: "7DC5B7A113321FE5"
+			linked_quest: "53C00EA9D9BEE776"
+			shape: "hexagon"
+			size: 2.0d
+			x: -11.0d
+			y: 1.0d
+		}
+		{
+			id: "38FD07D7828E2380"
+			linked_quest: "6DBD1492197AC92D"
+			shape: "hexagon"
+			size: 2.0d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			id: "655373E575EDEA3B"
+			linked_quest: "664107ED03A944CD"
+			shape: "hexagon"
+			size: 2.0d
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			id: "61C20171747FEFF9"
+			linked_quest: "2D47BFA44BDB5E6A"
+			shape: "hexagon"
+			size: 2.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "359600DCFB5737FD"
+			linked_quest: "6BF4A76C5B84EEE9"
+			shape: "hexagon"
+			size: 2.0d
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "34E9CFB624FF43BF"
+			linked_quest: "27EBB5AAF8A40F3D"
+			shape: "hexagon"
+			size: 2.0d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			id: "4302FFC0D732A736"
+			linked_quest: "33F610CF136278AE"
+			shape: "hexagon"
+			size: 2.0d
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			id: "7D71831F1CA225CB"
+			linked_quest: "13578427FD9CC2CE"
+			shape: "hexagon"
+			size: 2.0d
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			id: "07C05FB6F4BBD3DA"
+			linked_quest: "5B07A88C0BFF6586"
+			shape: "hexagon"
+			size: 2.0d
+			x: -15.5d
+			y: 3.5d
+		}
+		{
+			id: "07D34071F9603FE0"
+			linked_quest: "52F1953ED72A8AA6"
+			shape: "hexagon"
+			size: 2.0d
+			x: -15.5d
+			y: 10.0d
+		}
+		{
+			id: "2D7C46D4FE93A456"
+			linked_quest: "7E3A179376673590"
+			shape: "hexagon"
+			size: 2.0d
+			x: -15.5d
+			y: 12.0d
+		}
+		{
+			id: "13EE2159DF4A8619"
+			linked_quest: "63CC578C3558E0AF"
+			shape: "hexagon"
+			size: 2.0d
+			x: -15.5d
+			y: 14.0d
+		}
+	]
 	quests: [ ]
 	title: "Miner Missions"
 }
