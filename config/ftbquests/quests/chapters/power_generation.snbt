@@ -41,7 +41,7 @@
 			y: 2.75d
 		}
 	]
-	order_index: 4
+	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [{
 		id: "34461D7A562415D3"
